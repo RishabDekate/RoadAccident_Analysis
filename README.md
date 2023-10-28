@@ -13,3 +13,11 @@ Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that
 7. Total casualties and Total Accidents by location.
 
 This project will be helpful for many stakeholders Misitry of transport, Police force, Media, Road Transport Department, etc.
+
+Analysis steps:
+
+1. Create a Problem Statement.
+2. Identify the data you want to analyze.
+3. Explore and clean the data.
+4. Analyze the data to get useful insights.
+5. Present the data interms of reports or dashboards using visualization.
