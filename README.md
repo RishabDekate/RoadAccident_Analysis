@@ -9,5 +9,6 @@ Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that
 4. Monthly trend showing comparison of casualties for Current year and Previous year
 5. Casualties by Road type for Current year
 6. Current year Casualties by area/ Location & by Day/ Night
-7. Total casualties and Total Accidents by location
+7. Total casualties and Total Accidents by location.
+
 This project will be helpful for many stakeholders Misitry of transport, Police force, Media, Road Transport Department, etc.
