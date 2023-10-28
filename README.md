@@ -1,6 +1,7 @@
 # RoadAccident_Analysis
 
-Requirement:
+Requirements:
+
 Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insights on the below requirements-
 
 1. Primary KPI - Total casualties and Total Accident values for current year and year on year growth
